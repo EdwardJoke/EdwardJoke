@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm EdwardJoke
 
-<!--
-**EdwardJoke/EdwardJoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a passionate developer who loves building things and solving problems.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Frontend: React, Vue, JavaScript, TypeScript
+- Backend: Node.js, Python, Java
+- Database: MySQL, PostgreSQL, MongoDB
+- Tools: Git, Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwardJoke&show_icons=true&theme=radical)
+
+### Contact Me
+- 📫 Email: your.email@example.com
+- 💼 LinkedIn: linkedin.com/in/yourprofile
+- 🐦 Twitter: @yourhandle
+
+Feel free to reach out if you'd like to collaborate or just chat about tech!
