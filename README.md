@@ -2,6 +2,8 @@
 
 Now I'm working on [m4](https://github.com/edwardjoke/m4) and [wasup](https://github.com/edwardjoke/wasup)
 
+Keep exploring in the new world, new Era is coming.
+
 #### Funny pet from GitAnimals:
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=EdwardJoke&utm_content=farm">
 <img
